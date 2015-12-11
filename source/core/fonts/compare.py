@@ -31,3 +31,4 @@ __license__     = 'Apache License'
 # ============================= EarthShuttle® ============================
 import os
 import sys
+import errno
